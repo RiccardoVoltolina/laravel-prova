@@ -16,5 +16,6 @@
     </head>
     <body class="antialiased">
         <div>{{$title}}</div>
+        <div>{{$message}}</div>
     </body>
 </html>
